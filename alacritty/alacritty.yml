@@ -1,0 +1,7 @@
+import:
+    - ~/.config/alacritty/dracula/dracula.yml
+
+window:
+    padding:
+        x: 10
+        y: 10
