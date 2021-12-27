@@ -1,6 +1,8 @@
 import:
     - ~/.config/alacritty/dracula/dracula.yml
 
+background_opacity: 1
+
 window:
     padding:
         x: 10
